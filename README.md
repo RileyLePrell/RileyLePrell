@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-   <h3><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc1c2p1NmRocmJ2aDlobGhmcGpleHJ5ZDEyNzhvZHdnbXJ6ZXRmcCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="30"> 🗺️ Urban Planner & GIS Technician | 🖥️ Graduate Assistant | 🎓 MS Data Science & Business Analytics <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc1c2p1NmRocmJ2aDlobGhmcGpleHJ5ZDEyNzhvZHdnbXJ6ZXRmcCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="30"></h3>
+   <h4><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc1c2p1NmRocmJ2aDlobGhmcGpleHJ5ZDEyNzhvZHdnbXJ6ZXRmcCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="30"> 🗺️ Urban Planner & GIS Technician | 🖥️ Graduate Assistant | 🎓 MS Data Science & Business Analytics <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc1c2p1NmRocmJ2aDlobGhmcGpleHJ5ZDEyNzhvZHdnbXJ6ZXRmcCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="30"></h3>
 </div>
 
 <br />
