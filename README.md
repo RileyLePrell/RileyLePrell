@@ -6,12 +6,9 @@
    <a href="https://www.linkedin.com/in/riley-leprell/"><img height="30" src="https://github.com/RileyLePrell/RileyLePrell/blob/main/Media/Linkedin.png"></a>&nbsp;&nbsp;
    <a href="https://www.strava.com/athletes/17623408"><img height="30" src="https://github.com/RileyLePrell/RileyLePrell/blob/main/Media/Strava.png"></a>&nbsp;&nbsp;
 </p>
-
 <div align="center">
    <h4><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc1c2p1NmRocmJ2aDlobGhmcGpleHJ5ZDEyNzhvZHdnbXJ6ZXRmcCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="30"> 🗺️ Urban Planner & GIS Technician | 🖥️ Graduate Assistant | 🎓 MS Data Science & Business Analytics <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc1c2p1NmRocmJ2aDlobGhmcGpleHJ5ZDEyNzhvZHdnbXJ6ZXRmcCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/y93slPbDMdeXJQONHa/giphy.gif" width="30"></h3>
 </div>
-
-<br />
 
 <div style="display: flex; max-width: 800px; margin: auto; align-items: flex-start;">
    <div style="flex: 7; padding-right: 20px;">
