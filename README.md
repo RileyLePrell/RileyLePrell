@@ -17,7 +17,7 @@
          I'm a Planner and GIS Technician for the Town of Cramerton, as well as a Research Assistant exploring the link between road quality, traffic safety, and underserved communities. I am also an MS Data Science and Business Analytics student at the University of North Carolina at Charlotte. I was introduced to data science through my work in GIS and research, and I've grown to love the field. Check out some of the projects I've worked on, like the Streamlit application showing Environmental Justice locations in North Carolina. 
       </p>
       <p align="center">
-         <a href="https://ejexplorer.streamlit.app/">
+         <a href="https://environmentaljustice.streamlit.app/)">
             <img src="https://github.com/RileyLePrell/RileyLePrell/blob/main/Media/NC.png" width="250">
          </a>
          <br>
